@@ -1,0 +1,37 @@
+# Permalinks
+permalink:           pretty
+
+#Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Setup
+title:            Chopped Bits
+tagline:          'Cooking to coding'
+description:      'A platform to discuss things all things cooking and coding'
+url:              http://choppedbits.com
+paginate:            5
+baseurl:             /
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Jason Dorn
+  url:               https://twitter.com/apollo7011
+  email:             jason.dorn@choppedbits.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:           https://github.com/apollo701/choppedbits
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
