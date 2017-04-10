@@ -2,7 +2,6 @@
 permalink:           pretty
 
 #Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Setup
