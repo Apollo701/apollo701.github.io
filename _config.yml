@@ -2,7 +2,7 @@
 permalink:           pretty
 
 #Dependencies
-highlighter:      pygments
+highlighter:      rogue
 
 # Setup
 title:            Chopped Bits
