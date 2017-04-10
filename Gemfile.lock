@@ -58,6 +58,7 @@ DEPENDENCIES
   jekyll
   jekyll-gist
   jekyll-paginate
+  kramdown
   pygments.rb
 
 BUNDLED WITH
