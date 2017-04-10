@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![placeholder]({{ site.url }}/assets/monk_me.jpg)
+![me in Ankor Watt]({{ site.url }}/assets/monk_me.jpg)
 
 ### My name is Jason Tyler Dorn and i'm in *love* with food and tech.
 
