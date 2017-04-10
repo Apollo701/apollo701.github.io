@@ -8,8 +8,8 @@ title: About Me
 I am a software engineer currently residing in beautiful city of San Francisco, California.
 Everyday i'm cooking and programming, and *love* it. I'm currently teaching myself
 how to play guitar and trying to get fit again. I tore my ACL and had ACL
-replacement surgery {% timeago 2016-10-23 %}
-on November, 23rd 2016.
+replacement surgery on November, 23rd 2016, so have been rehabbing my knee ever 
+since.
 
 I also love going to music festivals. Music festivals
 are typically my favorite time of year, particularly going to _Outside Lands_.
