@@ -3,7 +3,6 @@ permalink:           pretty
 
 #Dependencies
 highlighter:      pygments
-markdown:         kramdown
 
 # Setup
 title:            Chopped Bits
