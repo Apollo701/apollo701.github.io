@@ -3,12 +3,15 @@ layout: page
 title: About Me
 ---
 
+![placeholder]({{ site.url }}/assets/monk_me.jpg)
+
 ### My name is Jason Tyler Dorn and i'm in *love* with food and tech.
 
-I am a software engineer currently residing in beautiful city of San Francisco, California.
+I am a software engineer currently residing in the beautiful city of
+San Francisco, California.
 Everyday i'm cooking and programming, and *love* it. I'm currently teaching myself
 how to play guitar and trying to get fit again. I tore my ACL and had ACL
-replacement surgery on November, 23rd 2016, so have been rehabbing my knee ever 
+replacement surgery on November 23rd 2016, so have been rehabbing my knee ever 
 since.
 
 I also love going to music festivals. Music festivals
